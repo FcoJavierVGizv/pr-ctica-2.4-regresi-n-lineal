@@ -1,0 +1,1 @@
+# pr-ctica-2.4-regresi-n-lineal
